@@ -127,8 +127,7 @@ Sou estudante em busca de uma oportunidade de estágio onde possa aplicar meus c
   - ✅ Gestão de estoque em tempo real com alertas
   - ✅ Dashboard financeiro com análise de faturamento
 - **Repositório**: [rootsacai](https://github.com/larissaRgj/rootsacai) | [Frontend](https://github.com/larissaRgj/rootsacai-frontend)
-- **Deploy**: [Visualizar projeto](https://gestao-hospitalar-delta.vercel.app)
-
+-
 ---
 
 ### 💰 **PocketFinance** - Controle Financeiro Mobile

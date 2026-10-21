@@ -188,7 +188,7 @@ Sou estudante em busca de uma oportunidade de estágio onde possa aplicar meus c
 
 - **GitHub**: [@larissaRgj](https://github.com/larissaRgj)
 - **LinkedIn**: [Larissa Guimarães](https://www.linkedin.com/in/larissa-guimaraes-b30489334)
-- **Email**: [Disponível no LinkedIn](https://www.linkedin.com/in/larissa-guimaraes-b30489334)
+- **Email**: [Disponível no LinkedIn](https://www.linkedin.com/in/larissa-guimaraes-b30489334) lari2792242@gmail.com ou larissa2792242@gmail.com 
 
 ---
 

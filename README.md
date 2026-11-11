@@ -1,15 +1,16 @@
 # Olá, eu sou Larissa Rodrigues Guimarães
 
-Sou estudante de tecnologia com interesse em dados, nuvem e desenvolvimento full stack. Estou em busca de uma oportunidade de estágio para aplicar meus conhecimentos, aprender com profissionais da área e continuar evoluindo como desenvolvedora.
+Sou estudante de tecnologia com interesse em dados, nuvem e desenvolvimento full stack. Estou em busca de oportunidades para aplicar meus conhecimentos, aprender com profissionais da área e contribuir em projetos reais.
 
 ---
 
 ## 👩‍💻 Sobre mim
 
-- 🎓 Estudante focada em tecnologia, inovação e solução de problemas
-- 📊 Interesse em dados, análise e cloud computing
-- 💻 Desenvolvimento back-end, front-end e mobile
-- 🚀 Apaixonada por criar projetos práticos e funcionais
+- 🎓 Estudante de tecnologia focada em inovação e resolução de problemas
+- 📊 Interesse em dados, análise, inteligência de negócios e cloud computing
+- 💻 Experiência com desenvolvimento back-end, front-end e mobile
+- 🚀 Apaixonada por criar soluções práticas, escaláveis e com boa experiência para o usuário
+- 🌱 Sempre em busca de aprendizado contínuo em arquitetura, automação e tecnologias emergentes
 
 ---
 
@@ -22,8 +23,9 @@ Sou estudante de tecnologia com interesse em dados, nuvem e desenvolvimento full
 - SQL
 - HTML
 - CSS
+- Python
 
-### Frameworks e ferramentas
+### Frameworks, bibliotecas e ferramentas
 - Spring Boot
 - React
 - React Native
@@ -38,6 +40,7 @@ Sou estudante de tecnologia com interesse em dados, nuvem e desenvolvimento full
 - Android Studio
 - Expo
 - Vercel
+- Firebase
 
 ---
 
@@ -65,7 +68,7 @@ Aplicativo mobile de controle financeiro pessoal.
 - Stack: React Native, TypeScript, Expo
 - Principais funcionalidades:
   - Cadastro de receitas e despesas
-  - Organizar por mês e ano
+  - Organização por mês e ano
   - Cálculo automático de saldo
   - Controle financeiro pessoal de forma prática
 - Repositório: [pocketfinance](https://github.com/larissaRgj/pocketfinance)
@@ -93,15 +96,16 @@ Sistema web para gestão de hospitais e clínicas.
 - Estrutura de dados
 - Cloud computing
 - SQL avançado
+- APIs e arquitetura de software
 
 ---
 
 ## 🔎 O que estou buscando
 
-- Oportunidade de estágio em dados, desenvolvimento ou cloud
+- Oportunidade de estágio em desenvolvimento, dados ou cloud
 - Experiência com profissionais da área
 - Desafios reais para crescer tecnicamente
-- Aprendizado contínuo em arquitetura, escalabilidade e tecnologia
+- Aprendizado contínuo em arquitetura, escalabilidade e inovação tecnológica
 
 ---
 

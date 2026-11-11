@@ -14,9 +14,16 @@ Sou estudante de tecnologia com interesse em dados, computação em nuvem e dese
 
 **Linguagens:** Java · JavaScript · TypeScript · SQL · HTML · CSS · Python
 
-**Frameworks e ferramentas:** Spring Boot · React · React Native · Node.js · Express · Vite · MySQL · SQLite · Git · GitHub · VS Code · Android Studio · Expo · Vercel · Firebase
+**Frameworks e ferramentas:** Spring Boot · React · React Native · Node.js · Express · Vite · MySQL · SQLite · Git · GitHub · VS Code · Android Studio · Expo · Vercel · Firebase · HTML5 Canvas
 
 ## 🌟 Projetos em destaque
+
+### 🎮 Laevatein — Fuga de Marte
+Jogo de ação e plataforma 2D em pixel art, executado no navegador. Ajude um astronauta a escapar de Marte em três fases, enfrentando inimigos e chefes.
+
+- **Tecnologias:** JavaScript, HTML5 Canvas e CSS
+- Três fases, combate, chefes, pontuação e controles para teclado, gamepad e tela sensível ao toque
+- [Ver repositório](https://github.com/larissaRgj/laevatein) · [Baixar o jogo (ZIP)](https://github.com/larissaRgj/laevatein/raw/refs/heads/main/LaevateinFinal.zip)
 
 ### 🍓 AçaíBom
 Sistema web para compra e venda de açaí.

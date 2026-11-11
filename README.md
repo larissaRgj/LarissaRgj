@@ -1,6 +1,6 @@
 # Olá, eu sou Larissa Rodrigues Guimarães
 
-Sou estudante de tecnologia com interesse em dados, nuvem e desenvolvimento full stack. Estou em busca de oportunidades para aplicar meus conhecimentos, aprender com profissionais da área e contribuir em projetos reais.
+Sou estudante de tecnologia com interesse em dados, nuvem e desenvolvimento full stack. Estou em busca de oportunidades para aplicar meus conhecimentos, aprender com profissionais da área e contribuir com soluções que façam diferença.
 
 ---
 
